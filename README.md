@@ -1,0 +1,2 @@
+# SeminarioNode
+univerisda politecnica salesiana 
